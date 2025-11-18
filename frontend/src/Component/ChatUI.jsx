@@ -98,7 +98,7 @@ export default function ChatUI() {
         {/* Header */}
 <header className="relative z-10 px-6 py-4 bg-[#e7d9b0] border-b border-[#d6c7a1] flex justify-center items-center">
   <h1 className="text-xl font-bold text-[#6B4E2E] flex items-center gap-2">
-    <GiSpellBook className="text-3xl text-[#6B4E2E]" />
+    <GiSpellBook className="text-2xl text-[#6B4E2E]" />
     Grandma’s Story Assistant
   </h1>
 </header>
